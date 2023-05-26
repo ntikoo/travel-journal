@@ -8,8 +8,8 @@
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "travel-journal -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react start",
+    "build": "react build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
