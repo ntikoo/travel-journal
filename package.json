@@ -2,7 +2,7 @@
   "name": "traveljournal",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/ntikoo/travel-journal",
+  "homepage": "https://ntikoo.github.io/travel-journal/",
   "type": "module",
   "scripts": {
     "dev": "vite",
